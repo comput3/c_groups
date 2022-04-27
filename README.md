@@ -1,1 +1,1 @@
-//testing different cgroup option for disparate JVMs
+//testing different cgroup options for disparate JVMs
